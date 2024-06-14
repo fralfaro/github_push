@@ -1,0 +1,1 @@
+CREATE PROCEDURE new_dbo.uspExample3 AS SELECT * FROM Table3
